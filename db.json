@@ -1,0 +1,26 @@
+{
+    "players":
+    [
+        {
+            "name": "harsha",
+            "age": "23",
+            "team": "SRH",
+            "country": "India",
+            "skill": "all-rounder"
+        },
+        {
+            "name": "Kanna",
+            "age": "25",
+            "team": "MI",
+            "country": "WI",
+            "skill": "all-rounder"
+        },
+        {
+            "name": "Vardhan",
+            "age": "26",
+            "team": "RCB",
+            "country": "ENG",
+            "skill": "Batter"
+        }
+    ]
+}

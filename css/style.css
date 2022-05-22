@@ -1,0 +1,23 @@
+ *{
+    margin:0;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+table{
+    width: 100%;
+}
+
+thead{
+    background-color:#042159;
+    line-height: 30px;
+    color: aliceblue;
+}
+.w-85{
+    width: 85%;
+}
+
+.w-60{
+    width: 100%;
+    max-width: 600px;
+}
